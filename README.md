@@ -36,6 +36,7 @@
 Код программы:
 ```cpp
 #include <iostream>
+#include "pch.h"
 #include "libbmp.h"
 
 using namespace std;
